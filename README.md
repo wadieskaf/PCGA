@@ -16,9 +16,7 @@
 <!-- TOC -->
 
 # Proportions Controlling Genetic Algorithm (PCGA)
-This repository contains an implementation of a general purpose Genetic Algorithm (GA) to control the proportions of labels in a set of containers. The goal of this algorithm is to select a subset of containers to match the desired proportions while minimizing any potential biases.
-
-A container in this context refers to a group of similar items that can be processed together. Examples of containers include a set of sentences that form a document, a set of images that form an album, a set of tweets that form a thread, etc.
+This repository contains an implementation of a general purpose Genetic Algorithm (GA) to control the proportions of labels in a set of containers. A container in this context refers to a group of similar items that can be processed together. Examples of containers include a set of sentences that form a document, a set of images that form an album, a set of tweets that form a thread, etc.
 
 The algorithm is designed to select a specified number of containers from a larger set, ensuring that the resulting proportions of labels in the selected containers are as close as possible to the desired proportions.
 
