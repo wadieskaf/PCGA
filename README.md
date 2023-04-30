@@ -80,7 +80,8 @@ The implementation of the Proportions Controlling Genetic Algorithm can be usefu
 2. Integrate parallel processing techniques to speed up the algorithm.
 3. Develop a user-friendly command-line interface or graphical user.
 4. Better coding for the algorithm, such as using more structured classes and subclasses for Chormosome, Population, etc.
-5. Implementing the algorithm in a faster language, such as Rust. (My personal future plan).
+5. Add unit tests and improve the documentation with the aim of making it a Python package available on PyPI.
+6. Implementing the algorithm in a faster language, such as Rust (This is my plan when I finish learning Rust :) )
 
 ## Contributing
 Contributions to this project are welcome. Feel free to implement any of the future enhancements listed above or suggest your own. 
