@@ -87,6 +87,22 @@ The implementation of the Proportions Controlling Genetic Algorithm can be usefu
 Contributions to this project are welcome. Feel free to implement any of the future enhancements listed above or suggest your own. 
 In addition, If you have an idea for an improvement or find a bug, please create a new issue. If you'd like to contribute code, please fork the repository and submit a pull request with your changes.
 
+## Citing this work
+
+If you use this code in your research, please cite this code as:
+```
+@misc{skaf_pcga_2023,
+  author = {Skaf, Wadie},
+  title = {Proportions Controlling Genetic Algorithm (PCGA)},
+  year = {2023},
+  howpublished = {\url{https://github.com/wadieskaf/PCGA}},
+  note = {Accessed: [date]. Please indicate the date you accessed this code in your work.},
+  abstract = {This repository contains an implementation of a general purpose Genetic Algorithm (GA) to control the proportions of labels in a set of containers.}
+}
+```
+
+
+
 ## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
