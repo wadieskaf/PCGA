@@ -12,6 +12,7 @@
     * [Example](#example)
   * [Future Enhancements](#future-enhancements)
   * [Contributing](#contributing)
+  * [Citing this work](#citing-this-work)
   * [License](#license)
 <!-- TOC -->
 
