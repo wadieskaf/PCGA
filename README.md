@@ -39,7 +39,6 @@ The Proportions Controlling Genetic Algorithm (PCGA) is implemented in the `Prop
 4. Crossover: Generate new offspring chromosomes by combining genes from parent chromosomes.
 5. Mutation: Randomly change some genes in a subset of chromosomes.
 6. Termination: Check if the optimal solution or a solution within a specified threshold has been found. If not, repeat steps 2-5 for a maximum number of iterations.
-Algorithm Flowchart
 
 ## Class Description
 The ProportionsControllingGA class has several methods that implement the main steps of the algorithm, as well as helper methods for working with chromosomes.
